@@ -6,5 +6,7 @@ HLHS affects one out of 5,000 newborns. The Norwood procedure is the most widely
 
 The database I used is the Pediatric Heart Network's Single Ventricle Reconstruction (SVR) trial. It is open-source and can be found at https://www.pediatricheartnetwork.org/public-use-data-sets.
 
-To run the program, simply go to the model folder and run the command:
+To run the program, simply clone the repository and run the following commands:
+  cd prediction-model-HLHS
+  cd models
   python combined.py
