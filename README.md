@@ -12,7 +12,5 @@ https://www.pediatricheartnetwork.org/public-use-data-sets.
 To run the program, simply clone the repository and run the following commands:
 
 	cd prediction-model-HLHS
-
 	cd models
-	
 	python combined.py
