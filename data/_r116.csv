@@ -1,0 +1,338 @@
+"blind_id","VISIT","r116_age","NUMHSEHLD","NUMADULTS","PARENT1","PARENT2","OTHADLTS","MOMHOUSE","PRNT1EDU","DADHOUSE","PRNT2EDU","PRNT1EMPLYMT","PRNT1WKTYP","PRNT1TITLE","PRNT1OSCRE","PRNT2EMPLYMT","PRNT2WKTYP","PRNT2TITLE","PRNT2OSCRE","hhscore"
+"184",4.0,424.0,3.0,2.0,"mother","father","none",1.0,5.0,1.0,4.0,1.0,"care of elderly - washing, feeding, etc.","personal support worker",3.0,1.0,"makes wood parts for doors and windows","machine operator",3.0,28.5
+"508",4.0,451.0,4.0,2.0,"mother","father","none",1.0,6.0,1.0,6.0,2.0,"","",0.0,1.0,"owns cable business","manager",8.0,58.0
+"39",4.0,436.0,6.0,2.0,"mother","father","none",1.0,6.0,1.0,6.0,1.0,"assembling auto parts","assembler",3.0,1.0,"drives/delivery","trucker",3.0,33.0
+"74",4.0,413.0,4.0,2.0,"mother","father","none",1.0,5.0,1.0,5.0,1.0,"own own business","business owner",7.0,1.0,"owns own business","business owner",7.0,50.0
+"778",4.0,454.0,3.0,2.0,"mother","father","none",1.0,7.0,1.0,6.0,1.0,"Public relations/Fundraising","Director",8.0,1.0,"Community mental health worker","community mental health worker",6.0,54.5
+"772",4.0,429.0,4.0,2.0,"mother","father","none",1.0,6.0,1.0,4.0,1.0,"waitress","waitress",2.0,1.0,"construction","construction worker",3.0,27.5
+"700",4.0,420.0,4.0,2.0,"mother","father","none",1.0,6.0,1.0,6.0,1.0,"casino","casino",5.0,1.0,"casino","casino",5.0,43.0
+"375",4.0,456.0,3.0,2.0,"mother","father","none",1.0,6.0,1.0,7.0,1.0,"nursing","RN (registered nurse)",8.0,1.0,"physical therapist","physical therapist",8.0,59.5
+"292",4.0,427.0,4.0,2.0,"mother","father","none",1.0,7.0,1.0,7.0,1.0,"speech pathologist - therapist","speech pathologist",8.0,1.0,"guidance counselor","guidance counselor",8.0,61.0
+"818",4.0,438.0,4.0,2.0,"Mother","Father","None",1.0,5.0,1.0,6.0,2.0,"","",0.0,1.0,"Investments","Risk Analyst",9.0,63.0
+"78",4.0,401.0,6.0,4.0,"mother","father","maternal grandmother, maternal step-grandfather",1.0,7.0,1.0,1.0,1.0,"elementary school teacher","teacher",7.0,1.0,"manual labor for a cardboard company","laborer",3.0,56.0
+"83",4.0,436.0,5.0,3.0,"MOTHER","","GRANDFATHER AND GRANDMOTHER",1.0,5.0,2.0,"",1.0,"WAITRESSING","WAITRESS",2.0,"","","","",25.0
+"282",4.0,401.0,5.0,3.0,"MOTHER","FATHER","PATERNAL GRANDMOTHER",1.0,3.0,1.0,4.0,1.0,"BARTENDING (PART-TIME)","BARTENDER",2.0,1.0,"CONSTRUCTION","CIVIL ENGINEER",4.0,25.5
+"702",4.0,425.0,3.0,2.0,"MOTHER","FATHER","NONE",1.0,7.0,1.0,7.0,2.0,"","",0.0,1.0,"WORKS FOR SOUTH KOREAN GOVERNMENT","MIDDLE OFFICER",9.0,66.0
+"54",4.0,431.0,6.0,2.0,"mother","father","None",1.0,5.0,1.0,4.0,2.0,"","",0.0,1.0,"driver for food service company","driver (truck)",3.0,27.0
+"416",4.0,419.0,3.0,2.0,"mother","father","None",1.0,2.0,1.0,5.0,2.0,"","",0.0,1.0,"welder","welder (ironworker)",4.0,35.0
+"92",4.0,400.0,4.0,2.0,"mother","father","NONE",1.0,6.0,1.0,5.0,2.0,"","",0.0,1.0,"computer programmer","senior consultant",8.0,55.0
+"792",4.0,447.0,7.0,2.0,"Mother","Father","None",1.0,7.0,1.0,7.0,2.0,"","",0.0,1.0,"professor","professor",9.0,66.0
+"87",4.0,423.0,5.0,4.0,"Mother","Father","Maternal grandmother + grandfather",1.0,7.0,1.0,6.0,1.0,"education","Academic coach",7.0,1.0,"Computer programmer","Application programmer",8.0,57.0
+"624",4.0,406.0,4.0,2.0,"Mother","Father","None",1.0,6.0,1.0,5.0,1.0,"Accounting","Accountant",8.0,1.0,"Labor","Laborer (State)",6.0,51.5
+"113",4.0,386.0,3.0,2.0,"Mother","Father","No",1.0,7.0,1.0,5.0,1.0,"Teacher","High school teacher",8.0,1.0,"Computer developer","Systems archetect",8.0,58.0
+"619",4.0,397.0,5.0,2.0,"mother","father","none",1.0,5.0,1.0,5.0,1.0,"administration for fence building company","administrater",5.0,1.0,"owner of fence building company","small business owner",6.0,42.5
+"598",4.0,431.0,4.0,2.0,"Mother","Father","none",1.0,7.0,1.0,6.0,1.0,"specialed teacher","speical ed teacher",7.0,1.0,"contract negotiator","contract negotiator",7.0,54.5
+"344",4.0,401.0,3.0,2.0,"mother","father","None",1.0,7.0,1.0,7.0,1.0,"teacher","reading",7.0,1.0,"security","security guard",3.0,46.0
+"72",4.0,450.0,3.0,2.0,"MOTHER","FATHER","NONE",1.0,6.0,1.0,6.0,2.0,"","",0.0,1.0,"APPLICATION ARCHITEICT SOFTWARE DEVELOPMENT","SAME",6.0,48.0
+"589",4.0,421.0,4.0,2.0,"MOTHER","FATHER","none",1.0,5.0,1.0,6.0,1.0,"INTERIOR DESIGN","OWNER",8.0,1.0,"SELLS MEDICAL SOFTWARE","SOUTH EAST SALES MANAGER",8.0,56.5
+"801",4.0,400.0,4.0,2.0,"mom","dad","none",1.0,4.0,1.0,4.0,2.0,"","",0.0,1.0,"air force","information manager",6.0,42.0
+"206",4.0,432.0,6.0,2.0,"MOM","DAD","none",1.0,7.0,1.0,7.0,1.0,"ATTORNEY","ATTORNEY",9.0,1.0,"VETERINARIAN","VETERINARIAN",9.0,66.0
+"286",4.0,435.0,3.0,2.0,"MOTHER","FATHER","NONE",1.0,6.0,1.0,5.0,1.0,"MARKETING AND SALES","SALESPERSON",6.0,1.0,"FREELANCE DESIGNER","FREELANCE DESIGNER",7.0,49.0
+"5",4.0,422.0,3.0,2.0,"MOTHER","FATHER","NONE",1.0,6.0,1.0,6.0,2.0,"","",0.0,1.0,"CONSTRUCTION WORKER, LANDSCAPING, PAINTING","CONSTRUCTION WORKER, LANDSCAPER",3.0,33.0
+"366",4.0,447.0,3.0,2.0,"MOTHER","FATHER","NONE",1.0,5.0,1.0,7.0,1.0,"TEACHES HORSEBACK RIDING","RIDING INSTRUCTOR",7.0,1.0,"VETERINARIAN","VETERINARIAN",9.0,58.0
+"879",4.0,424.0,11.0,2.0,"MOTHER","FATHER","none",1.0,4.0,1.0,5.0,2.0,"","",0.0,1.0,"SUPERMARKET","MEAT/PULTRY, BUTCHER",4.0,35.0
+"488",4.0,437.0,5.0,2.0,"BIO MOM","BIO DAD","none",1.0,7.0,1.0,7.0,2.0,"","",0.0,1.0,"SUPERVISOR IT","SUPERVISOR IT",8.0,61.0
+"628",4.0,447.0,3.0,2.0,"BIO MOM","BIO DAD","NONE",1.0,5.0,1.0,4.0,2.0,"","",0.0,1.0,"WORKS FOR PRINTING COMPANY","MANAGER",7.0,47.0
+"56",4.0,398.0,4.0,2.0,"MOTHER","FATHER","NONE",1.0,4.0,1.0,4.0,1.0,"WORKS IN PET STORE","MANAGER",6.0,1.0,"TEMPORARY DISABILITY","N/A",1.0,42.0
+"365",4.0,448.0,3.0,2.0,"MOTHER","FATHER","NONE",1.0,5.0,1.0,6.0,1.0,"NAIL TECHNICIAN","NAIL TECHNICIAN",3.0,1.0,"MORTGAGE LENDER","MORTGAGE LENDER",6.0,39.0
+"141",4.0,432.0,5.0,2.0,"FOSTERCARE  MOTHER","FOSTERCARE MOM'S DAUGHTER","NONE",2.0,5.0,2.0,6.0,2.0,"","",0.0,1.0,"CONSTRUCTION","CONSTRUCTION WORKER",4.0,""
+"707",4.0,430.0,3.0,2.0,"MOM","DAD","NO",1.0,7.0,1.0,7.0,1.0,"PT TEACHER 8TH GRADE MATH","TEACHER",7.0,1.0,"ORGANIZES TECHINCAL TEAM","MANAGER",7.0,56.0
+"646",4.0,400.0,3.0,2.0,"MOTHER","FATHER","NONE",1.0,6.0,1.0,5.0,2.0,"","",0.0,1.0,"SALES","SALES ASSOCIATE",5.0,40.0
+"4",4.0,415.0,3.0,2.0,"MOTHER","FATHER","NONE",1.0,6.0,1.0,6.0,2.0,"","",0.0,1.0,"E-COMMERCE (INTERNET BUSINESS)","E-COMMERCE ASSISTANT",8.0,58.0
+"623",4.0,471.0,3.0,2.0,"mother","father","None.",1.0,7.0,1.0,5.0,1.0,"teacher - 8th grade","teacher",8.0,1.0,"Information technology","Network administrator",8.0,58.0
+"318",4.0,413.0,5.0,2.0,"mother","father","None.",1.0,6.0,1.0,6.0,2.0,"","",0.0,1.0,"Real Estate","VP of Sales",7.0,53.0
+"62",4.0,406.0,6.0,4.0,"mother","legal guardian","aunt, grandmother",1.0,6.0,1.0,6.0,1.0,"research","researcher",6.0,1.0,"trainer","wellness trainer",6.0,48.0
+"2",4.0,437.0,4.0,2.0,"mother","father","none",1.0,7.0,1.0,6.0,1.0,"accountant","accountant",8.0,1.0,"business owner- design","business owner",6.0,54.5
+"409",4.0,404.0,6.0,3.0,"mother","father","au pair",1.0,6.0,1.0,6.0,1.0,"sales","sales manager",6.0,1.0,"sales","sales representative",6.0,48.0
+"634",4.0,425.0,3.0,2.0,"mom","dad","none",1.0,5.0,1.0,6.0,1.0,"hair dressing","hair dresser",3.0,1.0,"salesman of windows","salesman",5.0,36.5
+"154",4.0,468.0,9.0,3.0,"mom","dad","Great grandmom",1.0,6.0,1.0,6.0,1.0,"accountant","accountants",8.0,1.0,"accountant","accountants",8.0,58.0
+"560",4.0,494.0,5.0,2.0,"mother","father","none",1.0,7.0,1.0,7.0,2.0,"","",0.0,1.0,"teaches school physical education","teacher",7.0,56.0
+"541",4.0,402.0,5.0,2.0,"mom","dad","none",1.0,3.0,1.0,4.0,2.0,"","",0.0,1.0,"retail/sales","manager",5.0,37.0
+"218",4.0,1130.0,5.0,4.0,"mother","father","grandfather and grandmother",1.0,4.0,1.0,4.0,2.0,"","",0.0,2.0,"","",0.0,12.0
+"836",4.0,449.0,7.0,5.0,"mother","father","aunt, Grandfather & uncle",1.0,1.0,1.0,1.0,2.0,"","",0.0,2.0,"","",0.0,3.0
+"148",4.0,532.0,3.0,2.0,"mother","father","none",1.0,7.0,1.0,6.0,1.0,"financial analysis","financial analyst",9.0,1.0,"entertainment production","music producer",8.0,62.0
+"27",4.0,416.0,6.0,4.0,"mother","father","uncle and grandmother",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"office work","office clerk",4.0,35.0
+"678",4.0,416.0,5.0,2.0,"mother","father","none",1.0,4.0,1.0,5.0,2.0,"","",0.0,1.0,"goes to college","student",1.0,20.0
+"280",4.0,480.0,3.0,2.0,"mom","dad","none",1.0,6.0,1.0,5.0,1.0,"works at CVS","shift supervisor",6.0,1.0,"works at cablevision","cablevision technician",6.0,46.5
+"356",4.0,435.0,5.0,2.0,"mom","dad","none",1.0,5.0,1.0,6.0,2.0,"","",0.0,1.0,"sales","manager",6.0,48.0
+"608",4.0,500.0,3.0,2.0,"mother","father","na",1.0,3.0,1.0,3.0,2.0,"","",0.0,1.0,"supervisor in supermarket","supervisor",3.0,24.0
+"652",4.0,477.0,6.0,3.0,"Mother","father","grandfather",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"computer technical support","Technical support",6.0,45.0
+"253",4.0,491.0,6.0,5.0,"mother","father","grandmother, grandfather, aunt",1.0,6.0,1.0,4.0,1.0,"junior accountant","junior accountant",8.0,1.0,"machinist/factory","machinist",4.0,58.0
+"446",4.0,402.0,4.0,3.0,"mother","father","aunt",1.0,1.0,1.0,3.0,2.0,"","",0.0,1.0,"dishwasher in restaurant","dishwasher",1.0,14.0
+"125",4.0,508.0,4.0,2.0,"Mother","Father","No other adults.  Two children.",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"CEO of Exquisite Catering Company","President",8.0,55.0
+"565",4.0,472.0,4.0,2.0,"Mom","Dad","None other.",1.0,6.0,1.0,6.0,1.0,"Accountant","",8.0,1.0,"Software Developer","Computer Programmer",8.0,58.0
+"661",4.0,437.0,3.0,2.0,"MOTHER","FATHER","",1.0,4.0,1.0,3.0,1.0,"PHARMACY TECH","PHARMACY TECH",6.0,1.0,"PHARMACY STOCK","MAINTAIN STOCK MERCHANDISE",2.0,42.0
+"358",4.0,453.0,10.0,2.0,"mother","father","none",1.0,4.0,1.0,6.0,2.0,"","",0.0,1.0,"Warehouse manager","manager",7.0,53.0
+"849",4.0,551.0,3.0,2.0,"mother","father","",1.0,4.0,1.0,4.0,1.0,"Congregation- office work","Secretary",6.0,1.0,"teacher","teacher",7.0,44.5
+"275",4.0,409.0,6.0,3.0,"mom","dad","au pair",1.0,5.0,1.0,7.0,1.0,"corporate planner","corporate planner",7.0,1.0,"VP Finance","Vice President of Finance",9.0,58.0
+"476",4.0,399.0,3.0,1.0,"Mother","","None",1.0,2.0,2.0,"",1.0,"stay at home mom","Welfare recipient",1.0,"","","","",11.0
+"91",4.0,504.0,6.0,1.0,"mother","","There are no other adults living in the home - just the mother.",1.0,3.0,2.0,"",1.0,"unemployed","mom",1.0,"","on public assistance","","",14.0
+"843",4.0,446.0,5.0,2.0,"Mother","father","none",1.0,6.0,1.0,4.0,2.0,"","",0.0,1.0,"videographer","Videographer",7.0,47.0
+"610",4.0,455.0,4.0,2.0,"Mother","Father","No other adults",1.0,4.0,1.0,6.0,2.0,"","",0.0,1.0,"Currently assistant manager. Was an electrician.","Assistant manager",6.0,48.0
+"829",4.0,449.0,4.0,2.0,"mother","father","none",1.0,4.0,1.0,2.0,2.0,"","",0.0,2.0,"","",0.0,9.0
+"168",4.0,480.0,3.0,2.0,"mother","father","",1.0,5.0,1.0,6.0,1.0,"Restaurant business","Director of operations",8.0,1.0,"Team building and coaching","Business owner",8.0,56.5
+"61",4.0,589.0,5.0,2.0,"MOM","DAD","NONE",1.0,5.0,1.0,4.0,1.0,"CREDIT CARD PROCESSING","PROJECT MANAGER",7.0,1.0,"SANITATION","OFFICE MANAGER",7.0,48.5
+"176",4.0,477.0,4.0,2.0,"MOM","DAD","",1.0,4.0,1.0,5.0,2.0,"","",0.0,1.0,"ITS","Telecommunications",6.0,45.0
+"761",4.0,448.0,3.0,2.0,"MOM","DAD","No other adults in household",1.0,4.0,1.0,4.0,2.0,"","",0.0,1.0,"MANAGEMENT","Warehouse Manager",7.0,47.0
+"708",4.0,441.0,7.0,4.0,"MOTHER","FATHER","GRANDMOTHER AND ADULT SISTER",1.0,6.0,1.0,5.0,1.0,"NURSE","ORTHOPAEDIC RN",8.0,1.0,"TRUCK DRIVER","TRANSPORTATION SPECIALIST",3.0,58.0
+"216",4.0,438.0,5.0,2.0,"MOM","","GRANDMOTHER",1.0,7.0,2.0,"",2.0,"","",0.0,"","","","",21.0
+"514",4.0,421.0,3.0,2.0,"mom","dad","none",1.0,6.0,1.0,6.0,2.0,"","",0.0,1.0,"City Firefighter","Firefighter",4.0,38.0
+"314",4.0,421.0,3.0,2.0,"mom","dad","none",1.0,5.0,1.0,6.0,2.0,"","",0.0,1.0,"Insurance","Secretary",6.0,48.0
+"58",4.0,454.0,4.0,2.0,"mother","father","none",1.0,7.0,1.0,6.0,2.0,"","",0.0,1.0,"military","counter intelligence",8.0,58.0
+"6",4.0,405.0,3.0,2.0,"mother","father","none",1.0,6.0,1.0,5.0,2.0,"","",0.0,1.0,"information technology","manager of IT",7.0,50.0
+"789",4.0,477.0,5.0,2.0,"mother","father","None",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"route salesman for *** Distributors","No title",6.0,45.0
+"142",4.0,403.0,5.0,4.0,"mother","father","paternal grandparents",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"catering","catering transportation supervisor",5.0,40.0
+"343",4.0,457.0,4.0,2.0,"mother","father","none",1.0,6.0,1.0,7.0,1.0,"fundraiser for united way. (previously teacher)","individual giving and leadership manager",7.0,1.0,"QA and risk management for OMHSAS (state)/instructor for ITT tech.","QA and risk management/instructor",8.0,57.0
+"463",4.0,399.0,4.0,2.0,"mother","father","none",1.0,4.0,1.0,6.0,2.0,"","",0.0,1.0,"construction management","manager of *** construction co - company owner",8.0,58.0
+"17",4.0,450.0,4.0,3.0,"mother","grandmother","grandmother's roommate",1.0,3.0,2.0,4.0,1.0,"stay at home mom","stay at home mom",1.0,1.0,"disabled","disabled",1.0,14.0
+"656",4.0,432.0,3.0,2.0,"Mother","Father","None",1.0,6.0,1.0,6.0,2.0,"","",0.0,1.0,"software engineer","supervisor of software engineering and development",8.0,58.0
+"526",4.0,410.0,4.0,2.0,"mother","father","none",1.0,5.0,1.0,6.0,1.0,"traffic manager and fundraising for nonprofit","traffic manager",7.0,1.0,"traffic manager and movie (director of photogerapher)","traffic manager",7.0,51.5
+"308",4.0,404.0,4.0,2.0,"mother","father","none",1.0,6.0,1.0,7.0,1.0,"contracts and budget administration","contracts and budget administrator",8.0,1.0,"defense contractor","SR business analyst",8.0,59.5
+"112",4.0,407.0,11.0,2.0,"adoptive mother","adoptive father","none",1.0,5.0,1.0,4.0,1.0,"school bus driver","school bus driver",3.0,2.0,"","",0.0,30.0
+"323",4.0,451.0,5.0,3.0,"mother","father","uncle",1.0,6.0,1.0,4.0,2.0,"","",0.0,1.0,"athlete","professional boxer",7.0,47.0
+"258",4.0,414.0,7.0,4.0,"mother","Great GM","GM, GF, aunt, uncle",1.0,5.0,2.0,7.0,2.0,"","",0.0,2.0,"","",0.0,15.0
+"638",4.0,478.0,6.0,4.0,"mother","father","maternal grandparents",1.0,7.0,1.0,4.0,1.0,"child therapy, anger management","school based counselor",7.0,1.0,"vector security","security technician",4.0,56.0
+"621",4.0,416.0,5.0,2.0,"mother","father","none",1.0,6.0,1.0,7.0,1.0,"business office manager","business manager",6.0,1.0,"Family Nurse Practitioner","NP-Peds",8.0,54.5
+"298",4.0,397.0,9.0,4.0,"mother","father","MGM, MGF",1.0,6.0,1.0,4.0,1.0,"property management-self employed","property manager",7.0,1.0,"property management-self employed","property manager",7.0,50.0
+"146",4.0,514.0,6.0,2.0,"mother","none","maternal GM",1.0,2.0,2.0,"",1.0,"stay at home mom","stay at home mom",1.0,"","","","",11.0
+"636",4.0,433.0,4.0,2.0,"mother","father","none",1.0,7.0,1.0,7.0,1.0,"pediatrician","hospitalist",9.0,1.0,"pediatrician","general pediatrician",9.0,66.0
+"690",4.0,505.0,3.0,2.0,"Mother","Father","none",1.0,6.0,1.0,6.0,1.0,"law enforcement","crime lab specialist/forensic technicion",6.0,1.0,"law enforcement","crime investigator, detective",8.0,53.0
+"910",4.0,446.0,4.0,1.0,"mother","","none",1.0,3.0,2.0,"",1.0,"unemployed/public assistance","unemployed/public assistance",1.0,"","","","",14.0
+"161",4.0,483.0,3.0,2.0,"mother","father","none",1.0,6.0,1.0,7.0,1.0,"public health-communicable disease","disease intervention specialist",7.0,1.0,"teacher","5-8 grade health & physed",7.0,54.5
+"278",4.0,432.0,4.0,2.0,"mother","father","none",1.0,7.0,1.0,7.0,1.0,"internal medician physician","MD",9.0,1.0,"human resources","HR management",8.0,63.5
+"234",4.0,443.0,4.0,2.0,"mother","father","none",1.0,3.0,1.0,4.0,2.0,"","",0.0,1.0,"skilled carpenter - self employed","carpenter",2.0,22.0
+"626",4.0,444.0,4.0,2.0,"mother","father","none",1.0,4.0,1.0,5.0,2.0,"","",0.0,1.0,"GIS analyst (makes maps for the military)","GIS analyst",8.0,55.0
+"210",4.0,479.0,4.0,3.0,"mom","dad","paternal grandpa",1.0,4.0,1.0,4.0,1.0,"stay at home mom/student","receives SSI",1.0,1.0,"landscaping/handyman","landscaping/handyman",2.0,19.5
+"411",4.0,404.0,5.0,2.0,"mother","father","none",1.0,6.0,1.0,7.0,2.0,"","",0.0,1.0,"pharmacist","clinical pharmacist",8.0,61.0
+"196",4.0,450.0,5.0,2.0,"mom","dad","none",1.0,5.0,1.0,5.0,1.0,"hairstylist","hairstylist",3.0,1.0,"underground pipe construction","foreman",6.0,37.5
+"369",4.0,443.0,3.0,2.0,"Mom","dad","none",1.0,6.0,1.0,6.0,1.0,"acturial consultant","acturial consultant",8.0,1.0,"manager of retail store","manager",6.0,53.0
+"788",4.0,407.0,5.0,4.0,"mother","N/A","maternal GM maternal GF, maternal uncle",1.0,4.0,2.0,"",1.0,"stay at home mom","stay at home  mom",1.0,"","","","",17.0
+"166",4.0,414.0,2.0,1.0,"mom","n/a","none",1.0,4.0,2.0,"",1.0,"unemployed at this time","unemployed",1.0,"","","","",17.0
+"712",4.0,590.0,6.0,2.0,"mom","dad","none",1.0,5.0,1.0,6.0,2.0,"","",0.0,1.0,"freelance video editing","freelancer",4.0,38.0
+"378",4.0,560.0,5.0,4.0,"mom","dad","aunt and grandma",1.0,4.0,1.0,4.0,2.0,"","",0.0,1.0,"mechanic tractor trailers","mechanic",4.0,32.0
+"831",4.0,480.0,3.0,2.0,"mom","dad","none",1.0,5.0,1.0,7.0,1.0,"hairdresser","hairdresser",3.0,1.0,"consultant - internet marketing","project manager",8.0,61.0
+"812",4.0,527.0,5.0,2.0,"mom","none","a roommate older than 18
+",1.0,5.0,2.0,"",2.0,"","",0.0,"","unknown","unknown","",15.0
+"362",4.0,411.0,5.0,2.0,"mom","dad","none",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"Firefighter/paramedic","firefighter/paramedic",7.0,50.0
+"327",4.0,397.0,3.0,2.0,"mother","father","n/a",1.0,6.0,1.0,6.0,2.0,"","",0.0,2.0,"","",0.0,18.0
+"107",4.0,434.0,4.0,3.0,"mom","","grandpa, grandma",1.0,4.0,2.0,"",2.0,"","",0.0,"","unknown if father is working","unknown if father is working","",12.0
+"822",4.0,448.0,4.0,2.0,"mom","dad","none",1.0,6.0,1.0,6.0,2.0,"","",0.0,1.0,"pilot for privatw jets","pilot",8.0,58.0
+"805",4.0,454.0,4.0,2.0,"MOTHER","NON PATERNAL FATHER","none",1.0,4.0,2.0,3.0,1.0,"UNEMPLOYED ON PUBLIC ASSISTANCE","HOMEMAKER",1.0,1.0,"IN SCHOOL ON PUBLIC ASSISTANCE","STUDENT",1.0,17.0
+"373",4.0,412.0,4.0,2.0,"legal guardian","legal guardian's husband","no other parent",2.0,"",2.0,"","","","","","","","","",""
+"188",4.0,433.0,5.0,2.0,"mom","dad","none",1.0,4.0,1.0,3.0,2.0,"","",0.0,1.0,"lineman-powerlines","electrician",4.0,29.0
+"561",4.0,401.0,3.0,2.0,"mother","father","none",1.0,4.0,1.0,4.0,1.0,"homemaker-unemployed","unemployed",1.0,1.0,"unemployed","unemployed",1.0,17.0
+"247",4.0,468.0,4.0,2.0,"mom","dad","none",1.0,5.0,1.0,4.0,1.0,"receptionist part time","receptionist",5.0,1.0,"landscaping for city","landscaper",4.0,36.0
+"885",4.0,404.0,2.0,1.0,"mom","none","none",1.0,5.0,2.0,"",1.0,"supervisor for insurance company","supervisor",7.0,"","","","",50.0
+"487",4.0,438.0,3.0,2.0,"mom","dad","none",1.0,6.0,1.0,6.0,2.0,"","",0.0,1.0,"insurance","manager",7.0,53.0
+"393",4.0,"",4.0,2.0,"mom","fiance","none",1.0,4.0,1.0,4.0,2.0,"","",0.0,1.0,"truck driver","truck driver for beverage company",3.0,27.0
+"919",4.0,423.0,5.0,2.0,"mom","dad","none",1.0,5.0,1.0,5.0,1.0,"day care provider","day care provide",3.0,1.0,"us navy","first class petty officer",6.0,37.5
+"839",4.0,471.0,4.0,2.0,"mother","father","none",1.0,6.0,1.0,6.0,1.0,"MRI tech","MRI tech",6.0,1.0,"Shipment management","Shipment management",7.0,50.5
+"302",4.0,555.0,3.0,2.0,"mother","father","n/a",1.0,7.0,1.0,6.0,2.0,"","",0.0,1.0,"officer in air force","Engineer",9.0,63.0
+"458",4.0,415.0,3.0,2.0,"mother","father","no other people in home",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"Manager","Sales Manager",6.0,45.0
+"364",4.0,432.0,5.0,2.0,"mother","father","no other adults in the house",1.0,7.0,1.0,7.0,1.0,"Doctor","Eye Doctor",9.0,1.0,"Engineering","Electrical Engineer",9.0,66.0
+"331",4.0,425.0,4.0,3.0,"Mother","","grandmother and uncle (mother's brother)",1.0,5.0,2.0,"",1.0,"stay at homemom","Receives assistance",1.0,"","","","",20.0
+"445",4.0,494.0,5.0,2.0,"Mother","Father","none",1.0,5.0,1.0,6.0,2.0,"","",0.0,1.0,"Supervisor of Off shore rig, coiled tubing","Supervisor",6.0,48.0
+"730",4.0,441.0,3.0,2.0,"mother","father","none",1.0,4.0,1.0,4.0,1.0,"child care","Pre-K teacher",3.0,1.0,"shipping/receiving","forklift operator",3.0,27.0
+"293",4.0,389.0,5.0,2.0,"mother","father","none",1.0,6.0,1.0,6.0,1.0,"writer","Health feature writer",8.0,1.0,"nurse","Home Health Nurse",8.0,58.0
+"187",4.0,401.0,3.0,2.0,"Mother","","grandmother",1.0,4.0,2.0,"",2.0,"","",0.0,"","","","",12.0
+"830",4.0,425.0,4.0,2.0,"Mother","Father","none",1.0,4.0,1.0,3.0,1.0,"Receiving public assistance","Housewife",1.0,1.0,"Gas station","Gas attendant",1.0,15.5
+"658",4.0,484.0,5.0,2.0,"mother","father","none",1.0,4.0,1.0,4.0,2.0,"","",0.0,1.0,"Truck driving","Truck driver",3.0,27.0
+"51",4.0,447.0,5.0,3.0,"mother","grandma","great-grandma",1.0,5.0,2.0,"",1.0,"unemployed","unemployed",1.0,"","","","",20.0
+"907",4.0,431.0,6.0,4.0,"Mother","Father","Grandma and Grandpa",1.0,3.0,1.0,3.0,2.0,"","",0.0,2.0,"","",0.0,9.0
+"859",4.0,417.0,4.0,2.0,"mother","Father","None",1.0,4.0,1.0,4.0,2.0,"","",0.0,1.0,"paint house","painter",3.0,27.0
+"204",4.0,405.0,2.0,2.0,"Mother","Father","none",1.0,5.0,1.0,5.0,1.0,"Pre-clinical research","Technician",6.0,2.0,"","",0.0,45.0
+"848",4.0,428.0,4.0,2.0,"Mother","Father","None",1.0,6.0,1.0,5.0,1.0,"Nursing","Direct of nursing",8.0,1.0,"computer engineer","engineer",8.0,56.5
+"50",4.0,460.0,4.0,2.0,"grandma","Grandpa","None",2.0,4.0,2.0,4.0,2.0,"","",0.0,1.0,"Design and build swimming pools","Pool   designer",6.0,""
+"127",4.0,429.0,3.0,2.0,"mother","father","None",1.0,5.0,1.0,4.0,1.0,"Organ procurement","technician",6.0,1.0,"Cooking","Chef",4.0,38.5
+"837",4.0,421.0,4.0,2.0,"mother","father","None",1.0,1.0,1.0,1.0,2.0,"","",0.0,1.0,"construction","painter",3.0,18.0
+"197",4.0,399.0,3.0,2.0,"Mother","Father","None",1.0,6.0,1.0,4.0,1.0,"Teaching in elementary school","Teacher",8.0,1.0,"Restaurant manager","Manager",7.0,52.5
+"414",4.0,422.0,3.0,2.0,"Mother","father","None",1.0,3.0,1.0,3.0,2.0,"","",0.0,2.0,"","",0.0,9.0
+"693",4.0,421.0,4.0,3.0,"mother","none","Grandfather, grandmother",1.0,4.0,2.0,"",2.0,"","",0.0,"","","","",12.0
+"655",4.0,427.0,4.0,2.0,"Mother","Father","None",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"Food Service","Manager",7.0,50.0
+"405",4.0,403.0,3.0,2.0,"Mother","Father","None",1.0,4.0,1.0,3.0,1.0,"Packaging items for shipping","Employee in Packing Department",3.0,1.0,"receiving department @ warehouse","Part of Receiving crew",3.0,25.5
+"150",4.0,423.0,3.0,1.0,"mother","","No other adults in the home",1.0,5.0,2.0,"",1.0,"Tutor","Computer lab assistant",5.0,"","","","",40.0
+"605",4.0,409.0,5.0,2.0,"mother","father","none",1.0,4.0,1.0,5.0,1.0,"nursing assistant","CNA",3.0,1.0,"consultant","intern consultant",6.0,36.0
+"891",4.0,447.0,4.0,2.0,"mother","father","None",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"Tele-communicator for 911","Communicator",6.0,45.0
+"845",4.0,1.0,3.0,2.0,"mother","dad","None",1.0,4.0,1.0,4.0,2.0,"","",0.0,2.0,"","",0.0,12.0
+"603",4.0,438.0,5.0,2.0,"mother","father","none",1.0,4.0,1.0,5.0,"","","","",1.0,"sports retail","manager",6.0,45.0
+"823",4.0,403.0,5.0,2.0,"mother","father","none",1.0,3.0,1.0,3.0,"","","","",1.0,"carpenter","no title",4.0,29.0
+"403",4.0,439.0,6.0,2.0,"mother","father","None",1.0,5.0,1.0,6.0,2.0,"","",0.0,1.0,"military-chemical engineering, teaches on base","Officer - Lt.",9.0,63.0
+"666",4.0,432.0,6.0,2.0,"mother","father","None",1.0,1.0,1.0,1.0,2.0,"","",0.0,1.0,"construction/carpentry","consrcuction/carpenter",4.0,23.0
+"483",4.0,416.0,6.0,3.0,"Mother","Father","Grandmother",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"Mechanic","Mechanic",4.0,35.0
+"69",4.0,543.0,4.0,2.0,"mother","father","no other adults live in the household",1.0,6.0,1.0,7.0,1.0,"self-employed - embroidery","self employed",6.0,1.0," pharmacy","pharmacist",8.0,54.5
+"203",4.0,404.0,4.0,2.0,"mother","father","no other adults live in the house",1.0,3.0,1.0,3.0,1.0,"homemaker","homemaker",1.0,1.0,"painter/ park maintenance","unknown",2.0,16.5
+"466",4.0,425.0,4.0,2.0,"mother","father","none",1.0,7.0,1.0,7.0,1.0,"counselor","vocational rehabilitation counselor",8.0,1.0,"self employeed","real estate",8.0,61.0
+"617",4.0,415.0,5.0,1.0,"mother","no other parent in house","no other parent in household",1.0,4.0,2.0,5.0,1.0,"front desk clerk at motel","front desk clerk",5.0,1.0,"works at plant","unknown",3.0,37.0
+"620",4.0,411.0,3.0,1.0,"mother","none","none",1.0,5.0,2.0,"",1.0,"clerical","support clerk",5.0,"","","","",40.0
+"905",4.0,469.0,3.0,2.0,"mother","father","no others live in the house",1.0,7.0,1.0,5.0,1.0,"Owns a landscaping business","Business and Finances for business",7.0,1.0,"Server in a hotel and partials owns landscaping business","server",2.0,56.0
+"277",4.0,428.0,3.0,2.0,"Mother","Father","None",1.0,6.0,1.0,5.0,1.0,"Inside Sales Representative","Sales Representative",6.0,1.0,"Audio-Visual Director","Director",7.0,49.0
+"850",4.0,406.0,4.0,2.0,"Mother","Father","no other adults live in the home",1.0,6.0,1.0,7.0,2.0,"","",0.0,1.0,"Funeral Director","Funderal Director",7.0,56.0
+"211",4.0,410.0,4.0,2.0,"mother","father","grandmother",1.0,3.0,2.0,4.0,2.0,"","",0.0,2.0,"","",0.0,9.0
+"214",4.0,411.0,2.0,1.0,"mother","none","none",1.0,5.0,2.0,"",2.0,"","",0.0,"","","","",15.0
+"273",4.0,525.0,6.0,2.0,"mother","father","no other adults, 3 additional siblings",1.0,3.0,1.0,4.0,1.0,"unemployed","on assistance",1.0,1.0,"moving furniture","mover",2.0,18.0
+"139",4.0,400.0,3.0,2.0,"MOTHER","STEPFATHER","",1.0,4.0,1.0,5.0,2.0,"","",0.0,1.0,"CORRECTIONS OFFICER","CORRECTIONS OFFICER",2.0,25.0
+"796",4.0,436.0,4.0,2.0,"mother","father","none",1.0,6.0,1.0,7.0,2.0,"","",0.0,1.0,"computer specialist","IT technician",8.0,61.0
+"304",4.0,443.0,6.0,2.0,"mother","father","None",1.0,4.0,1.0,4.0,2.0,"","",0.0,1.0,"oil field","drilling in oil fields",3.0,27.0
+"811",4.0,417.0,4.0,3.0,"mother","none","grandma & grandpa",1.0,4.0,2.0,"",1.0,"works at movie theatre","cleark-snackbar",2.0,"","","","",22.0
+"723",4.0,414.0,4.0,2.0,"mother","father","no other adults as noted previously (there is a sister)",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"Air Force - enlisted","photographer",6.0,45.0
+"525",4.0,453.0,4.0,2.0,"mother","father","none",1.0,7.0,1.0,6.0,1.0,"teacher","teacher-elementary",7.0,1.0,"commercial lendering","commerical lender",7.0,54.5
+"701",4.0,451.0,3.0,2.0,"mother","father","none",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"real estate, financial planning","real estate agent",7.0,50.0
+"353",4.0,644.0,6.0,2.0,"mother","father","none",1.0,5.0,1.0,4.0,2.0,"","",0.0,1.0,"software company technician","operations engineer",6.0,42.0
+"595",4.0,459.0,5.0,3.0,"mother","father","aunt",1.0,1.0,1.0,1.0,2.0,"","",0.0,1.0,"sells food from his truck","lunch truck driver",2.0,13.0
+"773",4.0,427.0,3.0,2.0,"mother","father","None",1.0,5.0,1.0,5.0,1.0,"coordinates repairs + maintenance for apartment complex","Apartment manager",3.0,1.0,"Helps father in law's at accounting firm with paperwork","Accountant Assistant",5.0,35.0
+"370",4.0,430.0,11.0,4.0,"mother","father","2 adults (father's cousins)",1.0,4.0,1.0,5.0,2.0,"","",0.0,1.0,"monitors psychiatric patients","psychiatric technician",3.0,30.0
+"46",4.0,394.0,5.0,2.0,"Mother","Father","None",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"Repairs + builds airplanes","Aerospace Technician",4.0,35.0
+"77",4.0,407.0,4.0,2.0,"mother","father","none",1.0,3.0,1.0,5.0,2.0,"","",0.0,1.0,"working in assisted living facility","Nursing assistant",3.0,30.0
+"756",4.0,428.0,6.0,2.0,"mother","father","none",1.0,5.0,1.0,6.0,2.0,"","",0.0,1.0,"self-employeed","graphic designer",7.0,53.0
+"496",4.0,454.0,7.0,4.0,"Mother","Father","grandmother / uncle",1.0,2.0,1.0,5.0,1.0,"clinical nursing assistant","CNA",5.0,1.0,"customer service","customer service rep",5.0,35.5
+"766",4.0,397.0,5.0,4.0,"mother","father","maternal grandmother, maternal grandfather",1.0,4.0,1.0,4.0,2.0,"","",0.0,1.0,"changes horse shoes","black smith",3.0,27.0
+"659",4.0,415.0,7.0,3.0,"mother","father","grandmother",1.0,1.0,1.0,1.0,2.0,"","",0.0,1.0,"Builds Homes","Construction Worker",3.0,18.0
+"660",4.0,430.0,4.0,2.0,"mother","father","none",1.0,3.0,1.0,2.0,2.0,"","",0.0,2.0,"","",0.0,7.5
+"614",4.0,409.0,12.0,2.0,"mother","father","none",1.0,4.0,1.0,4.0,2.0,"","",0.0,1.0,"Dept of Power & Water","Electrical Craft Helper",4.0,32.0
+"726",4.0,423.0,4.0,2.0,"mom","dad","none",1.0,1.0,2.0,2.0,2.0,"","",0.0,1.0,"builds homes","construction worker",4.0,26.0
+"749",4.0,397.0,4.0,1.0,"mother","none","none",1.0,5.0,2.0,"",2.0,"","",0.0,"","","","",15.0
+"509",4.0,420.0,4.0,2.0,"mom","dad","none",1.0,1.0,1.0,1.0,2.0,"","",0.0,1.0,"Operates a printing press","print operator",3.0,18.0
+"7",4.0,420.0,4.0,2.0,"mom","dad","none",1.0,5.0,1.0,6.0,2.0,"","",0.0,1.0,"repairs motorcycles","mechanic",4.0,38.0
+"186",4.0,421.0,3.0,2.0,"mom","dad","None",1.0,3.0,1.0,3.0,2.0,"","",0.0,1.0,"Stocking / organizing shipments","Warehouse worker",2.0,19.0
+"633",4.0,431.0,3.0,2.0,"mom","dad","None.",1.0,6.0,1.0,5.0,1.0,"Self-employed book illustrator","Designer",7.0,1.0,"Develops video games","Technical artist",7.0,51.5
+"751",4.0,447.0,3.0,1.0,"mother","none","none",1.0,5.0,2.0,"",2.0,"","",0.0,"","","","",15.0
+"406",4.0,445.0,5.0,4.0,"Mother","Father","Maternal grandmother, grandfather",1.0,5.0,1.0,4.0,2.0,"","",0.0,1.0,"Dept. of corrections employee","Corrections officer",3.0,27.0
+"415",4.0,483.0,5.0,2.0,"mother","father","none",1.0,5.0,1.0,5.0,1.0,"Hewitt","customer service associate",5.0,1.0,"a cable provider corporation","Subcontractor- cable installer",4.0,37.5
+"802",4.0,415.0,3.0,2.0,"mother","father","None",1.0,6.0,1.0,4.0,1.0,"Auditor","Senior Auditor",8.0,2.0,"","",0.0,58.0
+"720",4.0,436.0,9.0,2.0,"mother","father","none",1.0,5.0,1.0,5.0,1.0,"unemployed, receiving public assistance for child","unemployed",1.0,1.0,"Driver-ambulance service","truck driver",3.0,25.0
+"165",4.0,424.0,4.0,2.0,"mother","father","none",1.0,4.0,1.0,4.0,1.0,"at home, mother","unemployed, public assistance",1.0,1.0,"shipping/ receiving in household cleaning supplies company","warehouse supervisor",4.0,24.5
+"570",4.0,408.0,5.0,2.0,"Mother","Father","None",1.0,5.0,1.0,5.0,1.0,"Accountant","Accountant",8.0,1.0,"Server - Waiter","Server",2.0,55.0
+"383",4.0,398.0,3.0,2.0,"mother","father","none",1.0,3.0,1.0,3.0,1.0,"retail","sales associate",5.0,1.0,"Building Yachts","Fabricator",3.0,29.0
+"826",4.0,403.0,5.0,2.0,"mother","father","None",1.0,4.0,1.0,4.0,1.0,"unemployed/public assistance","unemployed, public assistance",1.0,1.0,"machine operator","machine operator",3.0,22.0
+"577",4.0,412.0,5.0,2.0,"mother","father","None",1.0,4.0,1.0,4.0,2.0,"","",0.0,1.0,"Transport - ***","Manager",7.0,47.0
+"745",4.0,418.0,4.0,2.0,"mother","father","none",1.0,6.0,1.0,7.0,1.0,"Clerical","Sales associate",5.0,1.0,"underwriter","manager",7.0,49.5
+"754",4.0,427.0,4.0,1.0,"mother","","None",1.0,4.0,2.0,"",1.0,"unemployed","unemployed",1.0,"","","","",17.0
+"680",4.0,400.0,3.0,2.0,"mother","father","None",1.0,6.0,1.0,6.0,1.0,"system analyst","system analyst",8.0,1.0,"sales representative","sales representative",5.0,50.5
+"456",4.0,400.0,6.0,2.0,"mother","father","none",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"NMG","service tech semi-skilled",3.0,30.0
+"36",4.0,428.0,5.0,3.0,"mother","father","grandmother",1.0,5.0,1.0,4.0,1.0,"LPN","LPN",6.0,1.0,"Filler-National Automotive Sprinkler","Sprinkler/filler",4.0,38.5
+"611",4.0,416.0,4.0,2.0,"mother","father","none",1.0,5.0,1.0,5.0,1.0,"machine operator","machine operator",3.0,1.0,"machine operator","machine operator",3.0,30.0
+"149",4.0,397.0,4.0,2.0,"MOTHER","FATHER","NONE",1.0,6.0,1.0,5.0,1.0,"ACCOUNTANT, PROJECT ACCOUNTANT","Project Accountant",8.0,1.0,"Manager","Manager Convenience Store",7.0,54.0
+"382",4.0,447.0,4.0,2.0,"Mother","Father","None",1.0,6.0,1.0,4.0,1.0,"Information Systems","Senior Network Manager",8.0,2.0,"","",0.0,58.0
+"115",4.0,454.0,3.0,2.0,"mother","father","none",1.0,6.0,1.0,6.0,2.0,"","",0.0,1.0,"manager of biomedical company","production manager",8.0,58.0
+"873",4.0,412.0,3.0,2.0,"Mother","Father","None",1.0,7.0,1.0,6.0,1.0,"Special education","Theacher - Special education elementary",7.0,1.0,"Teacher - secondary education","Teacher",8.0,57.0
+"851",4.0,432.0,3.0,1.0,"mother","none","none",1.0,5.0,2.0,"",1.0,"pampered chef","consultant",1.0,"","","","",20.0
+"663",4.0,417.0,4.0,2.0,"mother","father","none",1.0,7.0,1.0,6.0,1.0,"contractor - communication","communications contractor",7.0,1.0,"sales","sales associate",6.0,52.0
+"913",4.0,423.0,4.0,2.0,"mother","father","none",1.0,6.0,1.0,6.0,2.0,"","",0.0,1.0,"nursing-home care","registered nurse",8.0,58.0
+"895",4.0,442.0,4.0,3.0,"mother","father","grandmother",1.0,3.0,1.0,3.0,1.0,"none","none",1.0,1.0,"drywall - construction","drywall - construction",3.0,19.0
+"171",4.0,414.0,5.0,2.0,"mother","father","none",1.0,5.0,1.0,3.0,1.0,"Homemaker; unemployed on public assistance","public assistance",1.0,1.0,"makes shoes","shoe stitcher",4.0,24.5
+"114",4.0,433.0,4.0,2.0,"mother","father","none",1.0,4.0,1.0,5.0,1.0,"homemaker","unemployed",1.0,1.0,"custodian","custodian in school system",3.0,23.5
+"32",4.0,421.0,3.0,2.0,"mother","father","none",1.0,3.0,1.0,4.0,1.0,"unemployed","homemaker",1.0,1.0,"shipping/receiving","stocking",2.0,18.0
+"834",4.0,423.0,5.0,2.0,"mother","father","none",1.0,4.0,1.0,4.0,1.0,"unemployed","unemployed (packaging papermill)",1.0,1.0,"unemployed","unemployed (operator, papermill)",1.0,17.0
+"267",4.0,439.0,3.0,2.0,"Mother","Father","NONE",1.0,5.0,1.0,6.0,1.0,"Administrative Assistant","Human Resources Assistant",5.0,1.0,"driver","Carrier - Package delivery company",3.0,36.5
+"342",4.0,431.0,3.0,2.0,"mother","father","none",1.0,6.0,1.0,5.0,1.0,"health insurance","health insurance",7.0,1.0,"manager bar/grill","manager",7.0,51.5
+"894",4.0,423.0,5.0,2.0,"mother","father","none",1.0,6.0,1.0,4.0,1.0,"ASPIRO","service coordinator",7.0,1.0,"fork lift driver","loader/reciever",3.0,53.0
+"438",4.0,413.0,4.0,2.0,"mother","father","none",1.0,7.0,1.0,4.0,1.0,"Teacher","elementary education teacher",7.0,1.0,"printer","printer",3.0,56.0
+"501",4.0,433.0,4.0,1.0,"mother","none","none",1.0,3.0,2.0,"",1.0,"unemployed","none",1.0,"","","","",14.0
+"503",4.0,452.0,3.0,2.0,"mother","father","none",1.0,6.0,1.0,2.0,1.0,"administrative assistant","project coordinator assistant",5.0,1.0,"sales representative","sales representative",6.0,39.5
+"728",4.0,435.0,3.0,2.0,"Mother","Father","NONE",1.0,5.0,1.0,4.0,1.0,"currently unemployed","previously certified nursing assistant",1.0,1.0,"window factory","assembler",3.0,23.5
+"552",4.0,449.0,4.0,2.0,"mother","father","NONE",1.0,2.0,1.0,4.0,1.0,"unemployed","homemaker",1.0,1.0,"landscaping","laborer",2.0,16.5
+"629",4.0,406.0,5.0,2.0,"Mother","Father","None",1.0,5.0,1.0,5.0,1.0,"Student/Homemaker","Homemaker",1.0,1.0,"Student/Painter","Painter",3.0,25.0
+"710",4.0,457.0,3.0,2.0,"mother","father","none",1.0,5.0,1.0,4.0,1.0,"medication technician","medication technician",6.0,1.0,"cable technician","cable technician",3.0,36.0
+"301",4.0,420.0,4.0,2.0,"mother","father","none",1.0,6.0,1.0,7.0,1.0,"engineer-pacemaker development","engineer",9.0,1.0,"real estate/commercial property attorney","attorney",9.0,64.5
+"776",4.0,439.0,4.0,2.0,"Mother","Father","None",1.0,4.0,1.0,4.0,1.0,"Homemaker, full time student","Homemaker, student",1.0,1.0,"Construction","Cable installer",3.0,22.0
+"642",4.0,452.0,5.0,2.0,"Mother","Father","None",1.0,6.0,1.0,5.0,1.0,"Homemaker","Homemaker",1.0,1.0,"Machine operator","Machine operator",4.0,29.0
+"288",4.0,435.0,3.0,2.0,"Mother","Father","None",1.0,5.0,1.0,4.0,1.0,"Connecting Cultures; Interpreter Somalian","Administrative Assistant",6.0,1.0,"Sales","Sales-product",6.0,43.5
+"872",4.0,407.0,5.0,2.0,"Mother","Father","None",1.0,5.0,1.0,5.0,1.0,"Homemaker","Homemaker",1.0,1.0,"Window Company","Manager",6.0,45.0
+"715",4.0,475.0,4.0,2.0,"mom","dad","None",1.0,5.0,1.0,4.0,1.0,"works for *** home medical","sales rep",5.0,1.0,"musician","bass player/teacher",7.0,43.5
+"169",4.0,692.0,2.0,1.0,"mom","dad","none-dad lives elsewhere-pts. divorced",1.0,5.0,2.0,5.0,2.0,"","",0.0,1.0,"computer arch. design","computer tech",8.0,55.0
+"864",4.0,435.0,4.0,3.0,"mom","dad","grandmother",1.0,5.0,1.0,3.0,2.0,"","",0.0,1.0,"umemployed no assistance-unskilled labor","unskilled labor",2.0,19.0
+"709",4.0,427.0,4.0,2.0,"mom","dad","none",1.0,5.0,1.0,4.0,2.0,"","",0.0,1.0,"installs satellites","satellite technician",3.0,27.0
+"250",4.0,421.0,8.0,2.0,"mother","father","none",1.0,5.0,1.0,6.0,2.0,"","",0.0,1.0,"supervisor of waste water plant","supervisor",6.0,48.0
+"424",4.0,426.0,3.0,2.0,"mom","dad","none",1.0,6.0,1.0,6.0,1.0,"industrial engineer","material flow coordinator",8.0,1.0,"inventory control","data coordinator",8.0,58.0
+"322",4.0,427.0,4.0,3.0,"mom","dad","grandmother who lives in home during week and goes home on w/e.",1.0,4.0,1.0,4.0,1.0,"manages bank","branch manager",6.0,1.0,"works for delivery co. ***","residential delivery",3.0,34.5
+"429",4.0,420.0,4.0,2.0,"mother","father","none",1.0,6.0,1.0,6.0,1.0,"self employed business owner","president of leasing CO",7.0,1.0,"self employment","president - aquatic management",7.0,53.0
+"14",4.0,419.0,6.0,2.0,"mom","dad","none",1.0,6.0,1.0,6.0,2.0,"","",0.0,1.0,"software engineer","senior software engineer",8.0,58.0
+"147",4.0,454.0,6.0,2.0,"mom","dad","none",1.0,6.0,1.0,5.0,2.0,"","",0.0,1.0,"sales rep","sales account executive",6.0,45.0
+"738",4.0,449.0,5.0,2.0,"mom","dad","none",1.0,4.0,1.0,5.0,1.0,"Emergency Dept. Registration Clerk","Patient Services, Representative",4.0,1.0,"Army reservist and full time student","Specialist",0.0,32.0
+"890",4.0,417.0,3.0,2.0,"mom","dad","none",1.0,7.0,1.0,6.0,2.0,"","",0.0,1.0,"design engineer","mechanical design engineer",9.0,63.0
+"768",4.0,434.0,4.0,2.0,"mom","dad","none",1.0,7.0,1.0,7.0,1.0,"teach","professor",9.0,1.0,"teach","professor",9.0,66.0
+"682",4.0,409.0,7.0,2.0,"mom","dad","none",1.0,6.0,1.0,4.0,1.0,"private guardianship","guardian",3.0,1.0,"farming","owner/operator",6.0,37.5
+"37",4.0,431.0,4.0,2.0,"mom","dad","none",1.0,4.0,1.0,5.0,2.0,"","",0.0,1.0,"janitorial","general laborer",3.0,30.0
+"485",4.0,427.0,5.0,2.0,"mother","father","none",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"tech trainer for auto industry","technical trainer",6.0,45.0
+"686",4.0,594.0,3.0,2.0,"mom","dad","none",1.0,5.0,1.0,6.0,2.0,"","",0.0,1.0,"sales rep","sales rep",6.0,48.0
+"695",4.0,501.0,5.0,2.0,"mom","dad","none",1.0,5.0,1.0,3.0,2.0,"","",0.0,1.0,"employed at a fast food chain restaurant","general manager",5.0,34.0
+"134",4.0,430.0,4.0,2.0,"mom","dad","none",1.0,6.0,1.0,6.0,1.0,"run achildrens non profit","president of expedition your town",6.0,2.0,"","",0.0,48.0
+"321",4.0,455.0,4.0,2.0,"mom","none","adult friend",1.0,4.0,2.0,"",2.0,"","",0.0,"","no contact with child's father","no contact with child's father","",12.0
+"679",4.0,461.0,4.0,2.0,"mom","dad","adult brother",1.0,6.0,1.0,6.0,2.0,"","",0.0,1.0,"farm manager","farm manager",4.0,38.0
+"435",4.0,441.0,3.0,1.0,"mom","none","none",1.0,5.0,2.0,"",1.0,"waitress","server",2.0,"","na","","",25.0
+"400",4.0,424.0,5.0,2.0,"mom","dad","none",1.0,4.0,1.0,3.0,1.0,"sales","photo associate",5.0,1.0,"construction","manual labor",4.0,33.0
+"306",4.0,422.0,3.0,2.0,"mother","father","none",1.0,5.0,1.0,5.0,1.0,"works at grocery store-cashier","cashier",5.0,2.0,"","",0.0,40.0
+"668",4.0,423.0,3.0,2.0,"mom","dad","none",1.0,5.0,1.0,5.0,1.0,"unemployment insurance consultant","unemployment insurance consultant",6.0,2.0,"","",0.0,45.0
+"287",4.0,445.0,5.0,2.0,"mom","dad","none",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"maintainence supervisor","maintainence supervisor",6.0,45.0
+"464",4.0,451.0,5.0,2.0,"aunt","uncle","none",2.0,3.0,2.0,3.0,2.0,"","",0.0,1.0,"grocery store worker","produce",2.0,""
+"452",4.0,427.0,4.0,2.0,"mom","dad","none",1.0,5.0,1.0,7.0,2.0,"","",0.0,1.0,"technical medical staff","senior tech. consultant",8.0,61.0
+"174",4.0,704.0,6.0,2.0,"mom","dad","none",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"govt. employee","mainteniance",4.0,35.0
+"26",4.0,421.0,3.0,2.0,"mother","father","none",1.0,5.0,1.0,6.0,2.0,"","",0.0,1.0,"skill trade","automotive tech.",4.0,38.0
+"229",4.0,436.0,4.0,2.0,"mom","dad","none",1.0,7.0,1.0,5.0,1.0,"labor attorney","labor relations rep.",9.0,1.0,"chef","chef-resturant",7.0,58.0
+"815",4.0,428.0,7.0,2.0,"foster mom","foster dad","none",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"lumber grader","lumber grader",4.0,""
+"828",4.0,454.0,3.0,2.0,"mom","dad","no others",1.0,6.0,1.0,5.0,1.0,"nurse","rn",8.0,1.0,"truck and heavy machinery operator, scrap metal","heavy machine operator",3.0,58.0
+"153",4.0,445.0,4.0,2.0,"mother","father","none",1.0,7.0,1.0,7.0,1.0,"director","director of seminar institute-Indian gaming",8.0,1.0,"law enforcement","police officer",6.0,56.0
+"882",4.0,445.0,5.0,2.0,"mother","father","adult sister, adult cousin",1.0,7.0,1.0,6.0,1.0,"supervisor at *** county CPS","supervisor",7.0,1.0,"automotive","supervisor-automaker",7.0,54.5
+"553",4.0,465.0,3.0,2.0,"mom","dad","none",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"machining","specialist",3.0,30.0
+"832",4.0,405.0,4.0,2.0,"mom","dad","no",1.0,6.0,1.0,6.0,2.0,"","",0.0,1.0,"sales","sales trainer",5.0,43.0
+"810",4.0,442.0,5.0,2.0,"mom","dad","none",1.0,7.0,1.0,7.0,1.0,"teacher","public school teacher",7.0,1.0," teacher","public school teacher",7.0,56.0
+"904",4.0,438.0,5.0,2.0,"mom","dad","none",1.0,6.0,1.0,7.0,1.0,"nurse","rn",8.0,1.0,"computer support","computer analyst",8.0,59.5
+"271",4.0,570.0,3.0,2.0,"mom","dad","none",1.0,6.0,1.0,5.0,1.0,"compliance regulatory","compliance officer",8.0,1.0,"mail delivery","rural carrier",4.0,58.0
+"391",4.0,434.0,5.0,3.0,"mom","dad","adult aunt",1.0,6.0,1.0,6.0,2.0,"","",0.0,1.0,"media research- field supervisor, data analyst","field supervisor",6.0,48.0
+"787",4.0,434.0,3.0,2.0,"mom","dad","none",1.0,7.0,1.0,7.0,1.0,"teacher","3rd grade teacher",7.0,1.0,"technology","director of technology",7.0,56.0
+"418",4.0,437.0,4.0,2.0,"mom","dad","none",1.0,6.0,1.0,5.0,1.0,"registered medical assistant","draws blood",3.0,1.0,"terminal manager","crane operator",3.0,31.5
+"687",4.0,428.0,4.0,2.0,"mom","dad","adult sister",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"farm","farmer",7.0,50.0
+"869",4.0,388.0,3.0,2.0,"mom","dad","none",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"US air force","military",4.0,35.0
+"109",4.0,456.0,3.0,2.0,"mother","father","none",1.0,5.0,1.0,5.0,1.0,"sales representative","sales representative",6.0,1.0,"maintenance","Maintenance Engineer",6.0,45.0
+"38",4.0,407.0,4.0,2.0,"mother","father","none",1.0,6.0,1.0,6.0,1.0,"Nurse","RN",8.0,1.0,"Owns Company","Owner",7.0,55.5
+"844",4.0,429.0,5.0,2.0,"mother","father","none",1.0,4.0,1.0,4.0,1.0,"disability","disability",1.0,2.0,"","",0.0,17.0
+"95",4.0,459.0,4.0,1.0,"mother","","not applicable",1.0,6.0,2.0,"",1.0,"letter carrier - post office","letter carrier",4.0,"","","","",38.0
+"572",4.0,436.0,3.0,2.0,"mother","father","none",1.0,6.0,1.0,5.0,1.0,"store manager","manager",7.0,1.0,"sales associate","sales associate",6.0,49.0
+"618",4.0,466.0,4.0,2.0,"mother","father","",1.0,4.0,1.0,4.0,2.0,"","",0.0,1.0,"Warehouse","supervisor",5.0,37.0
+"329",4.0,444.0,4.0,3.0,"mother","grandmother","grandfather",1.0,5.0,2.0,2.0,2.0,"","",0.0,2.0,"","",0.0,15.0
+"689",4.0,450.0,3.0,2.0,"mother","father","none",1.0,4.0,1.0,3.0,1.0,"outside salesperson","outside sales",5.0,1.0,"press operator - Factory","press operator",3.0,30.5
+"495",4.0,436.0,3.0,2.0,"mother","grandmother","none",1.0,5.0,2.0,3.0,1.0,"medical assistant","medical assistant",3.0,2.0,"","",0.0,30.0
+"645",4.0,450.0,3.0,2.0,"mother","father","none",1.0,6.0,1.0,6.0,1.0,"research scientist with food","research scientist",6.0,1.0,"water sampling","Environmental technician",6.0,48.0
+"156",4.0,437.0,4.0,2.0,"mother","father","None.",1.0,6.0,1.0,7.0,1.0,"Unemployed (nurse)","Registered nurse",8.0,1.0,"Physician","MD",9.0,62.0
+"404",4.0,443.0,3.0,2.0,"mother","father","none",1.0,6.0,1.0,6.0,2.0,"","",0.0,1.0,"Airmark","New Business Manager",7.0,53.0
+"231",4.0,422.0,4.0,2.0,"Mother","father","none",1.0,6.0,1.0,5.0,1.0,"flight attendent","flight attendant (on voluntary leave)",6.0,1.0,"Builder (home)","Supervisor",8.0,51.5
+"143",4.0,497.0,6.0,2.0,"mother","father","",1.0,6.0,1.0,6.0,2.0,"","",0.0,1.0,"general manager","general manager",7.0,53.0
+"279",4.0,491.0,4.0,3.0,"mother","","patients grandparents",1.0,5.0,2.0,"",1.0,"student (college)","student (college)",5.0,"","","","",40.0
+"650",4.0,456.0,4.0,2.0,"mother","father","",1.0,7.0,1.0,6.0,1.0,"pharmacist","pharmacist",8.0,1.0,"builder","builder",7.0,57.0
+"813",4.0,475.0,5.0,2.0,"mother","father","none",1.0,5.0,1.0,7.0,2.0,"","",0.0,1.0,"physician","anesthesiologist",9.0,66.0
+"145",4.0,465.0,4.0,3.0,"Mother","Father","Aunt",1.0,1.0,1.0,1.0,2.0,"","",0.0,1.0,"insulation installation","laborer",2.0,13.0
+"670",4.0,473.0,4.0,2.0,"mother","father","none",1.0,6.0,1.0,5.0,1.0,"teacher","teacher",7.0,1.0,"machinist","machinist",6.0,49.0
+"477",4.0,454.0,2.0,1.0,"mother","","none",1.0,5.0,2.0,"",2.0,"","",0.0,"","","","",15.0
+"676",4.0,465.0,3.0,1.0,"mother","","none",1.0,4.0,2.0,"",1.0,"unknown","unknown","",1.0,"contruction","construction",2.0,12.0
+"412",4.0,407.0,4.0,2.0,"mother","father","none",1.0,6.0,1.0,5.0,1.0,"registered nurse","registered nurse",8.0,1.0,"weapons instructor","weapons instructor",7.0,54.0
+"225",4.0,428.0,5.0,3.0,"mother","father","uncle (father's brother)",1.0,4.0,1.0,4.0,2.0,"","",0.0,1.0,"roofing","roofer",3.0,27.0
+"312",4.0,469.0,7.0,2.0,"Mother","Father","NONE",1.0,5.0,1.0,4.0,2.0,"","",0.0,1.0,"Receiving Manager at company","Receiving Manager",4.0,32.0
+"711",4.0,413.0,6.0,2.0,"mother","father","none",1.0,5.0,1.0,4.0,2.0,"","",0.0,1.0,"roofing, construction, and landscaping","roofer, construction worker, and landscaper",3.0,27.0
+"104",4.0,414.0,5.0,3.0,"Mother","Father","Aunt",1.0,3.0,1.0,1.0,1.0,"unemployed","unemployed",1.0,1.0,"self-contractor","self-contractor",1.0,11.0
+"207",4.0,416.0,9.0,2.0,"","","2 ADULT SISTERS",2.0,"",2.0,"","","","","","","","","",""
+"84",4.0,458.0,3.0,2.0,"MOTHER","FATHER","NA",1.0,6.0,1.0,6.0,2.0,"","",0.0,1.0,"COMPUTER TECHNOLOGY","VP OF SOFTWARE ENGINEERING",9.0,63.0
+"12",4.0,456.0,5.0,2.0,"MOTHER","FATHER","NONE",1.0,4.0,1.0,5.0,2.0,"","",0.0,1.0,"CONSTRUCTION","CONSTRUCTION",3.0,30.0
+"159",4.0,452.0,6.0,2.0,"MOTHER","FATHER","NONE",1.0,6.0,1.0,6.0,2.0,"","",0.0,1.0,"FINANCIAL","ACCOUNTANT",8.0,58.0
+"918",4.0,403.0,7.0,5.0,"mother","father","2 grandmothers, uncle",1.0,5.0,1.0,4.0,1.0,"FACTORY","PACKAGING",3.0,1.0,"FACTORY","LEAD OPERATOR",4.0,31.0
+"222",4.0,411.0,5.0,2.0,"mom","dad","none",1.0,7.0,1.0,5.0,1.0,"Lawyer","attorney",9.0,1.0,"U.S Geological Survey","Hydrolics technican",6.0,55.5
+"597",4.0,402.0,3.0,2.0,"mother","fahter","none",1.0,3.0,1.0,4.0,2.0,"","",0.0,1.0,"Delivery truck driver","Delivery truck driver for ***",3.0,27.0
+"582",4.0,472.0,3.0,2.0,"mother","father","None",1.0,2.0,1.0,3.0,2.0,"","",0.0,1.0,"Manager of *** Market","Manager",7.0,44.0
+"736",4.0,449.0,4.0,2.0,"mother","","grandmother",1.0,3.0,2.0,3.0,2.0,"","",0.0,"","not live in home","not live in home","",9.0
+"547",4.0,460.0,3.0,2.0,"mother","father","None",1.0,6.0,1.0,5.0,1.0,"Instructor at art school","Teacher",8.0,1.0,"Machine operator","machinist",3.0,58.0
+"157",4.0,493.0,7.0,3.0,"MOTHER","GRANDMOTHER","GRANDFATHER",1.0,5.0,2.0,5.0,1.0,"FINANCIAL COUNSELOR","FINANCIAL COUNSELOR",5.0,"","UNKNOWN","UNKNOWN","",40.0
+"785",4.0,430.0,3.0,1.0,"Mother","","none",1.0,5.0,2.0,3.0,1.0,"CLERICAL","INFORMATION CLERK",5.0,"","not live in home
+","not live in home","",40.0
+"920",4.0,484.0,8.0,2.0,"mother","father","NONE",1.0,2.0,2.0,"",2.0,"","",0.0,"","NOT KNOWN BY MOTHER","NOT KNOWN BY MOTHER","",6.0
+"430",4.0,457.0,4.0,2.0,"MOTHER","FATHER","NONE",1.0,6.0,1.0,6.0,1.0,"UNEMPLOYED SCHOOL TEACHER","SCHOOL TEACHER",1.0,1.0,"SCHOOL TEACHER","SCIENCE TEACHER",8.0,58.0
+"450",4.0,442.0,3.0,1.0,"MOTHER","","NONE",1.0,3.0,2.0,"",1.0,"UNEMPLOYED","UNEMPLOYED",1.0,"","UNKNOWN","UNKNOWN","",14.0
+"417",4.0,422.0,4.0,2.0,"MOTHER","FATHER","NO OTHER ADULTS LIVING IN HOME",1.0,5.0,1.0,6.0,2.0,"","",0.0,1.0,"US AIR FORCE","NETWORK TECHMICIAN",4.0,38.0
+"555",4.0,450.0,4.0,2.0,"mother","father","none",1.0,6.0,1.0,6.0,2.0,"","",0.0,1.0,"Painting","Auto Body Repairman",3.0,33.0
+"40",4.0,441.0,5.0,2.0,"mother","father","none",1.0,5.0,1.0,5.0,1.0,"Marketing","Director of Marketing",6.0,1.0,"Advertising","Manager",6.0,45.0
+"719",4.0,448.0,5.0,2.0,"mother","father","none",1.0,3.0,1.0,4.0,1.0,"Janitorial","Janitor",1.0,1.0,"Truck Loader","Loader",2.0,18.0
+"757",4.0,451.0,3.0,2.0,"mother","father","None",1.0,6.0,1.0,5.0,1.0,"Teacher","Teacher",8.0,1.0,"Sales","Independent Contractor",7.0,54.0
+"820",4.0,402.0,3.0,2.0,"MOTHER","FATHER","NON",1.0,5.0,1.0,5.0,2.0,"","",0.0,1.0,"AIR FORCE","E5",4.0,35.0
+"63",4.0,441.0,5.0,4.0,"mother","father","grandmother, aunt",1.0,4.0,1.0,4.0,1.0,"fast food","cashier",2.0,1.0,"fast food","none",2.0,22.0
+"475",4.0,416.0,5.0,3.0," maternal grandmother","step grandfather","uncle",2.0,5.0,2.0,5.0,1.0,"social worker","case manager, senior social worker",7.0,1.0,"machinist","machinist",4.0,""
+"758",4.0,432.0,3.0,2.0,"mother","father","NONE",1.0,6.0,1.0,5.0,1.0,"Teacher","High School English Teacher",8.0,1.0,"Package delivery company Supervisor","Package delivery company Hub Supervisor",6.0,51.5
+"397",4.0,451.0,4.0,2.0,"mother","father","",1.0,6.0,1.0,6.0,1.0,"teacher","teacher",7.0,1.0,"manager of lumber yard","manager",6.0,50.5
+"106",4.0,429.0,4.0,2.0,"mother","father","none",1.0,4.0,1.0,4.0,2.0,"","",0.0,1.0,"cement mason","mason foreman",6.0,42.0
