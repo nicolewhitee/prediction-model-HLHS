@@ -1,4 +1,4 @@
-# prediction-model-HLHS
+# Prediction Model for HLHS
 
 This repository contains models to predict fatality in patients with single left ventricle heart defects, specifically hypoplastic left heart syndrome (HLHS).
 
